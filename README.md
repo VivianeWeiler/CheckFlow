@@ -1,7 +1,5 @@
 # CheckFlow
 
-#### Video Demo: <https://youtube.com/shorts/Qsuw4z6TFhE?is=WxFn9l1rqKNlzjhV>
-
 ### Description:
 CheckFlow is a command-line checklist manager written in Python, built as my final project for **CS50’s Introduction to Programming with Python**. It allows users to create, orginize, and track multiple checklists directly from the terminal, with all data persisted in a SQLite database.
 
