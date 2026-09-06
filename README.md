@@ -161,8 +161,8 @@ Possible future features include:
 
 The long-term idea is to use the checklist system as a foundation for managing any process composed of sequential or verifiable steps.
 
-## Author
+## Copyright Notice
 
-**Viviane**
+This project was originally developed as a final project for Harvard's CS50 course and later adapted for public access. 
 
-Developed as the final project for **CS50P — Introduction to Programming with Python**.
+© 2026 Viviane Weiler. All rights reserved. This code is made publicly available for portfolio purposes only; reproduction, distribution, or commercial use is not permitted without prior authorization.
